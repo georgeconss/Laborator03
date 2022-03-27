@@ -13,4 +13,5 @@
     <string name="dial_star">*</string>
     <string name="dial_0">0</string>
     <string name="dial_hash">#</string>
+    <string name="phone_number">%1$s</string>
 </resources>
